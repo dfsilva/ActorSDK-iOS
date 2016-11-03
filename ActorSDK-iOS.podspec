@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         		= "ActorLotericaSDK-iOS"
+  s.name         		= "ActorSDK-iOS"
   s.version      		= "3.0.454"
   s.summary      		= "Actor SDK for intergration Actor Messaging Lotericas to your apps"
   s.homepage        = "https://actor.im/"
