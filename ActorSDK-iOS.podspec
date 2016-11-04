@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
   s.name         		= "ActorSDK-iOS"
-  s.version      		= "3.0.453"
-  s.summary      		= "Actor SDK for intergration Actor Messaging to your apps"
+  s.version      		= "3.0.454"
+  s.summary      		= "Actor SDK for intergration Actor Messaging Lotericas to your apps"
   s.homepage        = "https://actor.im/"
   s.license         = { :type => 'MIT', :file => 'LICENSE' }
   s.author       		= { "Actor LLC" => "steve@actor.im" }
-  s.source          = { :http => "https://github.com/actorapp/ActorSDK-iOS/releases/download/v#{s.version}/ActorSDK.zip"}
+  s.source          = { :http => "https://github.com/dfsilva/ActorSDK-iOS/releases/download/v3.0.454/ActorSDK.zip"}
 
   s.platform     		= :ios, "8.0"
   s.requires_arc 		= true
